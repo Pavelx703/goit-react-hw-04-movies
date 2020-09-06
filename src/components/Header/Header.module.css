@@ -1,0 +1,6 @@
+.Header {
+  box-shadow: 0 0 10px rgba(52, 211, 38, 0.5);
+  background-color: rgb(148, 226, 138);
+  font-size: 30px;
+  color: rgba(235, 66, 15, 0.5);
+}
